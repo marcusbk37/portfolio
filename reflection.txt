@@ -1,0 +1,8 @@
+What I've Learned / Figured Out
+
+8/13
+- To initialize and use git
+- How to navigate to different pages
+- To use VSCode because it colors the React properly
+- A little more about how React is different + more powerful than HTML
+- How to budget time and sit down and do something I don't know how to do -> and then figure stuff out and make progress

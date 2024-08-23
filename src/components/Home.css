@@ -1,0 +1,46 @@
+.Background {
+    text-align: center;
+    /* background: linear-gradient(to bottom, white, rgb(119, 208, 243));
+    height: 60vh; */
+}
+
+.Profile {
+    width: 100vmax;
+    height: 60vmin;
+}
+
+.profile-picture {
+    height: 60vmin;
+    float: right;
+    margin-right: 10vmax;
+    margin-top: 3px; margin-bottom: 3px;
+    box-shadow: 0 0 0 3px  rgb(0, 0, 0);
+}
+
+.profile-text {
+    /* background: radial-gradient(circle, white, rgb(119, 208, 243)); */
+    width: 63vmax;
+    float: left;
+    height: 100%
+}
+
+.profile-title {
+    font-size: 5vw;
+}
+
+.profile-description {
+    font-size: 2vw;
+}
+
+.Subpages {
+    background: linear-gradient(to bottom, white, rgb(119, 208, 243));
+    float: right;
+    width: 100vmax;
+    height: 20vmax;
+}
+
+.subpage-image {
+    height: 30vmin;
+    box-shadow: 0 0 0 3px  rgb(0, 0, 0);
+    margin: 1%;
+}
