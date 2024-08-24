@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a83907e7.css",
+    "main.js": "/static/js/main.2371118a.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/celly.PNG": "/static/media/celly.5ab68b39e10cd45b09d2.PNG",
+    "static/media/pommels_2.PNG": "/static/media/pommels_2.f22427303920632ad612.PNG",
+    "static/media/pommels_1.PNG": "/static/media/pommels_1.1c625bfc36279a91da7b.PNG",
+    "static/media/ACE_1.png": "/static/media/ACE_1.5b13060ac2eebb754f56.png",
+    "static/media/107E_1.png": "/static/media/107E_1.ae6f8f71b1be2056e29f.png",
+    "static/media/huddle.png": "/static/media/huddle.5c8b200ff1f18e7604fb.png",
+    "static/media/maccabiah.png": "/static/media/maccabiah.d3187fe1ae7407174c97.png",
+    "static/media/amazon_2.png": "/static/media/amazon_2.e5be9f6509660e98598e.png",
+    "static/media/Personal_Picture.png": "/static/media/Personal_Picture.10981ba4c81e361a1a0d.png",
+    "index.html": "/index.html",
+    "main.a83907e7.css.map": "/static/css/main.a83907e7.css.map",
+    "main.2371118a.js.map": "/static/js/main.2371118a.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a83907e7.css",
+    "static/js/main.2371118a.js"
+  ]
+}
