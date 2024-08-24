@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a83907e7.css",
+    "main.js": "/portfolio/static/js/main.e2ee9044.js",
+    "static/js/453.253ccfac.chunk.js": "/portfolio/static/js/453.253ccfac.chunk.js",
+    "static/media/celly.PNG": "/portfolio/static/media/celly.5ab68b39e10cd45b09d2.PNG",
+    "static/media/pommels_2.PNG": "/portfolio/static/media/pommels_2.f22427303920632ad612.PNG",
+    "static/media/pommels_1.PNG": "/portfolio/static/media/pommels_1.1c625bfc36279a91da7b.PNG",
+    "static/media/ACE_1.png": "/portfolio/static/media/ACE_1.5b13060ac2eebb754f56.png",
+    "static/media/107E_1.png": "/portfolio/static/media/107E_1.ae6f8f71b1be2056e29f.png",
+    "static/media/huddle.png": "/portfolio/static/media/huddle.5c8b200ff1f18e7604fb.png",
+    "static/media/maccabiah.png": "/portfolio/static/media/maccabiah.d3187fe1ae7407174c97.png",
+    "static/media/amazon_2.png": "/portfolio/static/media/amazon_2.e5be9f6509660e98598e.png",
+    "static/media/Personal_Picture.png": "/portfolio/static/media/Personal_Picture.10981ba4c81e361a1a0d.png",
+    "index.html": "/portfolio/index.html",
+    "main.a83907e7.css.map": "/portfolio/static/css/main.a83907e7.css.map",
+    "main.e2ee9044.js.map": "/portfolio/static/js/main.e2ee9044.js.map",
+    "453.253ccfac.chunk.js.map": "/portfolio/static/js/453.253ccfac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a83907e7.css",
+    "static/js/main.e2ee9044.js"
+  ]
+}
